@@ -16,24 +16,14 @@ HTML: Structure and form elements
 
 CSS: Styling for improved UI/UX
 
-How to Use
-Clone the repository:
 
-git clone https://github.com/yourusername/job-application-form.git
-Navigate to the project directory:
 
-cd job-application-form
+
+
 Open index.html in a browser to view the form.
 
-Future Enhancements
-Add JavaScript for form validation and better user experience
 
-Integrate a backend to store submitted applications
 
-Improve responsiveness for better mobile support
-
-Screenshots
-Add screenshots here if applicable.
 
 Author
 Bokka Sravani
