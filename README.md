@@ -1,4 +1,4 @@
-Job Application Form (Prototype)
+Job Application Form (Personal Project)
 Overview
 This project is an HTML and CSS-based job application form designed to collect applicant details efficiently. It provides a user-friendly interface for job seekers to submit their information seamlessly.
 
